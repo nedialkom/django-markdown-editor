@@ -24,6 +24,7 @@ blocks:
           - python manage.py migrate
           - cd ..
           - ls
+          - ls
 agent:
   machine:
     type: e1-standard-2
